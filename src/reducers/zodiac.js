@@ -23,4 +23,4 @@ const tellZodiac=(state=initialState,action)=>{
 
     }
 }
-export default tellZodiac;
+export default tellZodiac
